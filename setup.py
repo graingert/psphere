@@ -5,7 +5,7 @@ history = open('CHANGES.rst').read().replace('.. :changelog:', '')
 
 setup(
     name="psphere2",
-    version='0.0.0',
+    version='0.0.1.dev0',
     description="vSphere SDK for Python",
     long_description=readme + '\n\n' + history,
     author="Jonathan Kinred",
